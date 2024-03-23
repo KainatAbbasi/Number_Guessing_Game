@@ -1,0 +1,17 @@
+{
+  "name": "let_play7_number_guessing_game",
+  "version": "1.0.0",
+  "description": " TypeScript Number Guessing Game!",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kainat",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
